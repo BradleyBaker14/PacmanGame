@@ -1,0 +1,8 @@
+C:\Users\1928\Documents\Visual Studio 2015\Projects\Pacman_Zagorschi_Franco\Pacman_Zagorschi_Franco\bin\x86\Release\Pacman_Zagorschi_Franco.exe.config
+C:\Users\1928\Documents\Visual Studio 2015\Projects\Pacman_Zagorschi_Franco\Pacman_Zagorschi_Franco\bin\x86\Release\Pacman_Zagorschi_Franco.exe
+C:\Users\1928\Documents\Visual Studio 2015\Projects\Pacman_Zagorschi_Franco\Pacman_Zagorschi_Franco\bin\x86\Release\Pacman_Zagorschi_Franco.pdb
+C:\Users\1928\Documents\Visual Studio 2015\Projects\Pacman_Zagorschi_Franco\Pacman_Zagorschi_Franco\obj\x86\Release\Pacman_Zagorschi_Franco.Form1.resources
+C:\Users\1928\Documents\Visual Studio 2015\Projects\Pacman_Zagorschi_Franco\Pacman_Zagorschi_Franco\obj\x86\Release\Pacman_Zagorschi_Franco.Properties.Resources.resources
+C:\Users\1928\Documents\Visual Studio 2015\Projects\Pacman_Zagorschi_Franco\Pacman_Zagorschi_Franco\obj\x86\Release\Pacman_Zagorschi_Franco.csproj.GenerateResource.Cache
+C:\Users\1928\Documents\Visual Studio 2015\Projects\Pacman_Zagorschi_Franco\Pacman_Zagorschi_Franco\obj\x86\Release\Pacman_Zagorschi_Franco.exe
+C:\Users\1928\Documents\Visual Studio 2015\Projects\Pacman_Zagorschi_Franco\Pacman_Zagorschi_Franco\obj\x86\Release\Pacman_Zagorschi_Franco.pdb
